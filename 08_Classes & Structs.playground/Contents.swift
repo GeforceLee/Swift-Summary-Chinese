@@ -63,7 +63,7 @@ struct Resolution {
     var height = 0
 }
 
-class test: NSObject {
+class test {
     var resolution  = Resolution()
     var interlaced = false
     var frameRate = 0.0
